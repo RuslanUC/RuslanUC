@@ -24,7 +24,8 @@
   <a href="https://html.com/"><img src="https://shields.io/badge/HTML-3/5-brightgreen?logo=html5&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <br>
   Frameworks/libraries:<br>
-  <a href="https://quart.palletsprojects.com/en/latest/"><img src="https://shields.io/badge/Flask/Quart-4/5-brightgreen?logo=flask&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
+  <a href="https://quart.palletsprojects.com/en/latest/"><img src="https://shields.io/badge/Flask/Quart-5/5-brightgreen?logo=flask&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://shields.io/badge/Django-3/5-brightgreen?logo=django&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <a href="https://docs.aiohttp.org/en/stable/"><img src="https://shields.io/badge/Aiohttp-4/5-brightgreen?logo=aiohttp&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <br>
   Databases/infrastructure:<br>
@@ -37,7 +38,7 @@
   Other:<br>
   <a href="https://git-scm.com/"><img src="https://shields.io/badge/Git-4/5-brightgreen?logo=git&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <a href="https://www.docker.com/"><img src="https://shields.io/badge/Docker-3/5-brightgreen?logo=docker&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
-  <a href="https://www.debian.org/"><img src="https://shields.io/badge/Debian-3/5-brightgreen?logo=debian&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
+  <a href="https://www.linux.org/"><img src="https://shields.io/badge/Linux-3/5-brightgreen?logo=linux&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
 </p>
 
 <p align="center">
