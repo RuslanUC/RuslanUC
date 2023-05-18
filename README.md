@@ -27,8 +27,9 @@
   <br>
   Frameworks/libraries:<br>
   <a href="https://quart.palletsprojects.com/en/latest/"><img src="https://shields.io/badge/Flask/Quart-5/5-brightgreen?logo=flask&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://shields.io/badge/Django-2/5-brightgreen?logo=django&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://shields.io/badge/Django-3/5-brightgreen?logo=django&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <a href="https://docs.aiohttp.org/en/stable/"><img src="https://shields.io/badge/Aiohttp-4/5-brightgreen?logo=aiohttp&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
+  <a href="https://docs.pytest.org/en/7.3.x/"><img src="https://shields.io/badge/PyTest-3/5-brightgreen?logo=pytest&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <br>
   Databases/infrastructure:<br>
   <a href="https://mariadb.org/"><img src="https://shields.io/badge/MySQL/Mariadb-4/5-brightgreen?logo=mysql&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
