@@ -22,14 +22,16 @@
   Languages:<br>
   <a href="https://www.python.org/"><img src="https://shields.io/badge/Python-5/5-brightgreen?logo=python&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <a href="https://www.java.com/en/"><img src="https://shields.io/badge/Java-2/5-brightgreen?logo=java&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
-  <a href="https://www.javascript.com/"><img src="https://shields.io/badge/JavaScript-3/5-brightgreen?logo=javascript&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
+  <a href="https://www.javascript.com/"><img src="https://shields.io/badge/JavaScript/Typescript-3/5-brightgreen?logo=javascript&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <a href="https://html.com/"><img src="https://shields.io/badge/HTML-3/5-brightgreen?logo=html5&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <br>
   Frameworks/libraries:<br>
   <a href="https://quart.palletsprojects.com/en/latest/"><img src="https://shields.io/badge/Flask/Quart-5/5-brightgreen?logo=flask&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://shields.io/badge/FastAPI-3/5-brightgreen?logo=fastapi&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <a href="https://www.djangoproject.com/"><img src="https://shields.io/badge/Django-3/5-brightgreen?logo=django&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <a href="https://docs.aiohttp.org/en/stable/"><img src="https://shields.io/badge/Aiohttp-4/5-brightgreen?logo=aiohttp&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <a href="https://docs.pytest.org/en/7.3.x/"><img src="https://shields.io/badge/PyTest-3/5-brightgreen?logo=pytest&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
+  <a href="https://react.dev/"><img src="https://shields.io/badge/React-3/5-brightgreen?logo=react&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
   <br>
   Databases/infrastructure:<br>
   <a href="https://mariadb.org/"><img src="https://shields.io/badge/MySQL/Mariadb-4/5-brightgreen?logo=mysql&style=for-the-badge&labelColor=ffffff&logoColor=blue"></a>
